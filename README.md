@@ -7,7 +7,7 @@ index.html
 <p>1. Innovation and technology in engineering education system based on Android </p>
 -alasan : Sebagai bagian penting dari pembelajaran yang lebih tinggi,peran penting dalam mengembangkan bakat inovatif dan terapan </p>
 2.Teaching smartphones programming using (Android Java): Pedagogy and innovation </p>
--alasan : Inovasi adalah unsur penting dalam pengembangan. Perubahan terjadi dengan kecepatan lebih cepat dari sebelumnya
+-alasan : Inovasi adalah unsur penting dalam pengembangan. Perubahan terjadi dengan kecepatan lebih cepat dari sebelumnya </p>
 3.Design and development of the mobile learning systemfor experimental teaching </p>
 -alasan :ngembangkan sistem pembelajaran seluler menjadi lebih penting </p>
 abstrak
